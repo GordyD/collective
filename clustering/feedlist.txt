@@ -1,0 +1,6 @@
+http://stackoverflow.com/feeds/user/713425
+http://feeds.feedburner.com/JonSkeetCodingBlog
+http://feeds.feedburner.com/codinghorror
+http://feeds.hanselman.com/ScottHanselman
+http://feeds.feedburner.com/TechCrunch/startups
+http://feeds.feedburner.com/TechCrunch/Google
